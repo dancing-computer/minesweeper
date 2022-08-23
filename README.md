@@ -5,3 +5,7 @@
 而且这样的UI明显是我的风格。
 
 **<p style="{color:red;}">注：此项目只有UI是本人做的，扫雷算法并不是本人所写！！！</p>**
+
+# Environment Informations
+<p>Runs well in Windows 2000</p>
+<p>Best environment: Windows 2000 (currently)</p>
